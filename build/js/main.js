@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".slide").slick({infinite:!0}),$(".doc_items").slick({infinite:!0,slidesToShow:2,slidesToScroll:2,dots:!0}),$("form").each(function(){$(this).validate()})});
